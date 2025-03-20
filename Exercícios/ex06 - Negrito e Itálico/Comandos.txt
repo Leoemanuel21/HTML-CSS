@@ -1,0 +1,15 @@
+<strong> </strong>
+<em> </em>
+<mark> </mark>
+<style>
+        mark{
+            background-color: lime;
+        }
+</style>
+<small> </small>
+<del> </del> 
+<ins> </ins>
+<u> </u>(Não semântica)
+<sup> </sup> 
+<sub> </sub>
+

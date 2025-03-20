@@ -1,0 +1,35 @@
+	*pseudo class :
+	*pseudo elementor::
+<style>
+        div{
+            display: inline-block;	//Todo na mesma linha
+        }
+</style>
+
+//hover quando passar o mouse por cima
+div:hover{
+            background-color: yellow;
+        }
+
+//Os paragrafos(p) que estão dentro da div não mostrem(display: nome;)
+div > p{
+            display: none;
+        }
+
+//Para aparecer
+div:hover > p{
+            display: block;
+            color: white;
+            background-color: red;
+	    width: 300px;
+        }
+
+//Visitado
+a:visited{
+            color: darkred;
+        }
+
+//quando clicado ficara amarelo
+a:active{
+            color: yellow;
+        }

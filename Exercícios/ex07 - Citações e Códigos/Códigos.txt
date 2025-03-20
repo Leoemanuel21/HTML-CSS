@@ -1,0 +1,9 @@
+<pre>	
+	<code> 
+	
+	</code>
+</pre>
+
+<blockquate site="Link > </blockquate> 
+<abbr title=" " > HTML </abbr> 
+<bdo dir="rtl"></bdo> inverter a ordem 

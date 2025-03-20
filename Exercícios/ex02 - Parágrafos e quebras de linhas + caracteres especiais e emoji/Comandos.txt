@@ -1,0 +1,13 @@
+<br>
+&lt;
+&gt;
+&reg;
+&copy;
+&trade;
+&euro;
+&pound;
+&yen;
+&cent;  
+&Delta;
+&uparrow;
+&#x1F596;

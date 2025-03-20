@@ -1,0 +1,17 @@
+<style>
+        h1{
+            background-color: lightgray;
+            height: 300px;
+            width: 300px;
+
+            border: 10px solid darkslategray;
+            padding: 10px; //Quando os 4 pontos são iguais, utiliza apenas 1 para os 4
+            margin: 20px auto 40px auto; //auto para centralizar
+	    outline: 5px dashed salmon;
+	}
+
+        a{
+            border: 10px solid red;
+            padding: 10px;
+        }
+    </style>

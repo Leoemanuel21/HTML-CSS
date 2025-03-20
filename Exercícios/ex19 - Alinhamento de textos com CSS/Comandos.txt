@@ -1,0 +1,8 @@
+Formatação de texto
+text-align: left
+	    center
+	    right
+	    justify
+
+Recuo na primeira palavra
+text-indent: 30px;

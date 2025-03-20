@@ -1,0 +1,25 @@
+	OBS	
+	* id só pode ser usado em um h1
+	* class pode ser usado em varios
+
+* Para IDENTIFICAR ESTE H1
+<h1 id="principal"> Criando Sites com HTML e CSS</h1>
+* Para usar
+h1#principal {
+}
+
+<h2 class="basico">HTML básico</h2>
+<h2 class="intermediário">HTML intermediário</h2>
+<h2 class="avançado destaque">CSS avançado</h2>
+.basico{
+
+}
+.intermediário{
+
+}
+.avançado{   
+
+}
+.destaque{
+    
+}

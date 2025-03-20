@@ -1,0 +1,7 @@
+<ol type="1/i/I/a/A">
+	<li> </li>
+</ol>
+Lista não ordenada
+<ul type=="disc/circle/square ">
+	<li> </li>
+</ul>
