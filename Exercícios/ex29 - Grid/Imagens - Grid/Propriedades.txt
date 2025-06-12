@@ -1,7 +1,9 @@
-grid-template-columns: define a quantidade de colunas
 grid-template-rows: define o tamanho dos items
+grid-template-columns: define a quantidade de colunas
+grid-auto-flow: define como será adicionado os items
 gap: define o espaçamento dos items
 align-items: alinha os items verticalmente
 justify-items: alinha os items horizontalmente
 align-content: alinha todos os items verticalmente
 justify-content: alinha todos os items horizontalmente
+grid-auto-row / grid-auto-column: para quando for criar células que estão dentro do grid implicito, sempre irá acrescentando
